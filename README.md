@@ -28,8 +28,6 @@
 * 韻母分主次，區分依據係頻率
 * 根據音系特點，合併部分音位
 * 合併長短對立嘅入聲韻
-* yu嘅聲母只有zcsj，放在U
-
 ## 聲調
 ![alt text](https://github.com/yzswt/svjpgl/blob/main/tones.png?raw=true)
 * 聲調分爲中行、上行兩組，分別對應主次韻母
