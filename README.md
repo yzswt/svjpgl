@@ -14,7 +14,7 @@
 3. 因鍵位數目所限而作兼容性處理
 ## 首字母=聲母
 ![alt text](https://github.com/yzswt/svjpgl/blob/main/initials.png?raw=true)
-* 絕大多數聲母位於原jyutping所設計的鍵位
+* 大部分聲母位置同jyutping相同
 * z放在J，考慮到呢個係最常用嘅聲母之一，以及以上第1、2點
 * j放在Y，考慮以上第1、2點
 * kw放在Q，最低頻嘅聲母，考慮以上第2點
