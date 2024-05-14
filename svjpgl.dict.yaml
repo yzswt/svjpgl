@@ -1,0 +1,15 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# svjpgl - 詞庫
+#
+# Source: https://github.com/yzswt/svjpgl/blob/main/README.md
+
+---
+name: svjpgl
+version: "May 14 2024 - initial"
+sort: by_weight
+vocabulary: essay-cantonese
+import_tables:
+  - svjpgl.chars
+  - svjpgl.words
