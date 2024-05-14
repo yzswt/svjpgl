@@ -12,7 +12,7 @@
 1. 習慣、方便記憶以及傳統
 2. 音素嘅使用頻率同鍵位嘅對應關係
 3. 因鍵位數目所限而作兼容性處理
-## 聲母
+## 首字母=聲母
 ![alt text](https://github.com/yzswt/svjpgl/blob/main/initials.png?raw=true)
 * 絕大多數聲母位於原jyutping所設計的鍵位
 * z放在J，考慮到呢個係最常用嘅聲母之一，以及以上第1、2點
@@ -22,16 +22,16 @@
 * ng放在O
 * 零聲母放在A
 * jyut6ping3作g/k + u/ut/ui/un，本方案作r/q (gw/kw)
-## 韻母
+## 身字母=韻母
 韻母綜合考慮根據以上所有因素作安排
 ![alt text](https://github.com/yzswt/svjpgl/blob/main/vowels.png?raw=true)
 * 韻母分主次，區分依據係頻率
 * 根據音系特點，合併部分音位
 * 合併長短對立嘅入聲韻
-## 聲調
+## 尾字母=聲調
 ![alt text](https://github.com/yzswt/svjpgl/blob/main/tones.png?raw=true)
 * 聲調分爲中行、上行兩組，分別對應主次韻母
-* 合併嘅長短對立嘅入聲韻嘅區分方法
+* 已長短入聲韻嘅區分方法
   短1>>1，
   長3>>3，
   短6>>4，
@@ -40,7 +40,7 @@
   
   
 # 例
-### 玉宣托思粵語三拼輸入法
+### 玉宣拓思粵語三拼輸入法
 ### yzfswjtzlsej yywyue svjpgl suuyrrftl
 
 # 重碼
