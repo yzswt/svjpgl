@@ -28,7 +28,8 @@
 ![alt text](https://github.com/yzswt/svjpgl/blob/main/vowels.png?raw=true)
 * 韻母分主次，區分依據係頻率
 * 根據音系特點，合併部分音位
-* 合併長短對立嘅入聲韻
+* 合併長短對立嘅入聲韻：aap/ap, aat/at, aak/ak, ok/uk, ek/ik
+* 合併聲母無對立嘅入聲韻：yut/ut, eot/ot
 ## 尾字母=聲調
 ![alt text](https://github.com/yzswt/svjpgl/blob/main/tones.png?raw=true)
 * 聲調分爲中行、上行兩組，分別對應主次韻母
