@@ -24,7 +24,7 @@
 * 成音節m及ng分別作MM及OO
 * jyut6ping3作g/k + u/ut/ui/un，本方案作R/Q (gw/kw)
 ## 身字母=韻母
-韻母綜合考慮根據以上所有因素作安排
+韻母綜合考慮以上所有因素作安排
 ![alt text](https://github.com/yzswt/svjpgl/blob/main/vowels.png?raw=true)
 * 韻母分主次，區分依據係頻率
 * 根據音系特點，合併部分音位
