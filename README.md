@@ -21,7 +21,12 @@
 * gw放在R
 * ng放在O
 * 零聲母放在A
-<br>
 ## 韻母
 
 ![alt text](https://github.com/yzswt/svjpgl/blob/main/vowels.png?raw=true)
+* 韻母分主次，區分依據係頻率
+* 根據音系特點，合併部分音位
+* 合併長短對立嘅入聲韻
+* yu嘅聲母只有zcsj，放在U
+
+## 聲調
