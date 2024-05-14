@@ -23,4 +23,5 @@
 * 零聲母放在A
 <br>
 ## 韻母
-* 韻母
+
+![alt text](https://github.com/yzswt/svjpgl/blob/main/vowels.png?raw=true)
