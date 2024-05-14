@@ -2,7 +2,7 @@
 * 詞庫來自jyut6ping3詞庫，重點參考jyut6ping3方案
 ## 方案規則
 ### 首字母<br>
-聲母20個，26個字母，完全夠用。
+聲母20個，字母完全夠用。
 ### 身字母<br>
 韻母50幾個，剛好係26個字母嘅兩倍上下，因此每個字母分配兩個韻母。
 ### 尾字母<br>
@@ -21,7 +21,8 @@
 * gw放在R
 * ng放在O
 * 零聲母放在A
-* jyut6ping3作g/k + u/ut/ui/un，本方案作r/q (gw/kw)
+* 成音節m及ng分別作MM及OO
+* jyut6ping3作g/k + u/ut/ui/un，本方案作R/Q (gw/kw)
 ## 身字母=韻母
 韻母綜合考慮根據以上所有因素作安排
 ![alt text](https://github.com/yzswt/svjpgl/blob/main/vowels.png?raw=true)
